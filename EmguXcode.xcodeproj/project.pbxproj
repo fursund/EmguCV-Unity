@@ -1092,126 +1092,126 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE7C91212B4EF007C44E8 /* libcxcore210 */;
+			remoteGlobalIDString = B4CDE7C91212B4EF007C44E8;
 			remoteInfo = libcxcore210;
 		};
 		B40E2FAA1212D9AA0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE6B91212B066007C44E8 /* zlib */;
+			remoteGlobalIDString = B4CDE6B91212B066007C44E8;
 			remoteInfo = zlib;
 		};
 		B40E2FAC1212D9AA0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE5521212AEC7007C44E8 /* opencv_lapack */;
+			remoteGlobalIDString = B4CDE5521212AEC7007C44E8;
 			remoteInfo = opencv_lapack;
 		};
 		B40E2FAE1212D9AA0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B40D79091212ACF000005952 /* flann */;
+			remoteGlobalIDString = B40D79091212ACF000005952;
 			remoteInfo = flann;
 		};
 		B40E2FF61212DBA90023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE7C91212B4EF007C44E8 /* libcxcore210 */;
+			remoteGlobalIDString = B4CDE7C91212B4EF007C44E8;
 			remoteInfo = libcxcore210;
 		};
 		B40E2FF81212DBA90023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE6B91212B066007C44E8 /* zlib */;
+			remoteGlobalIDString = B4CDE6B91212B066007C44E8;
 			remoteInfo = zlib;
 		};
 		B40E2FFA1212DBA90023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE5521212AEC7007C44E8 /* opencv_lapack */;
+			remoteGlobalIDString = B4CDE5521212AEC7007C44E8;
 			remoteInfo = opencv_lapack;
 		};
 		B40E2FFC1212DBA90023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B40D79091212ACF000005952 /* flann */;
+			remoteGlobalIDString = B40D79091212ACF000005952;
 			remoteInfo = flann;
 		};
 		B40E30161212DC2A0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDEAA41212C712007C44E8 /* libhighgui */;
+			remoteGlobalIDString = B4CDEAA41212C712007C44E8;
 			remoteInfo = libhighgui;
 		};
 		B40E30181212DC2F0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B40E2FA41212D9970023BCC4 /* libml210 */;
+			remoteGlobalIDString = B40E2FA41212D9970023BCC4;
 			remoteInfo = libml210;
 		};
 		B40E301A1212DC3F0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE7C91212B4EF007C44E8 /* libcxcore210 */;
+			remoteGlobalIDString = B4CDE7C91212B4EF007C44E8;
 			remoteInfo = libcxcore210;
 		};
 		B40E301C1212DC420023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE9461212BE97007C44E8 /* libcv210 */;
+			remoteGlobalIDString = B4CDE9461212BE97007C44E8;
 			remoteInfo = libcv210;
 		};
 		B40E30331212DED50023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDEAA41212C712007C44E8 /* libhighgui */;
+			remoteGlobalIDString = B4CDEAA41212C712007C44E8;
 			remoteInfo = libhighgui;
 		};
 		B40E30351212DEDE0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B40E2FA41212D9970023BCC4 /* libml210 */;
+			remoteGlobalIDString = B40E2FA41212D9970023BCC4;
 			remoteInfo = libml210;
 		};
 		B40E30451212E01E0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B40E2FA41212D9970023BCC4 /* libml210 */;
+			remoteGlobalIDString = B40E2FA41212D9970023BCC4;
 			remoteInfo = libml210;
 		};
 		B40E30471212E01E0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE9DD1212C57B007C44E8 /* libcvaux210 */;
+			remoteGlobalIDString = B4CDE9DD1212C57B007C44E8;
 			remoteInfo = libcvaux210;
 		};
 		B40E30491212E01E0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE9461212BE97007C44E8 /* libcv210 */;
+			remoteGlobalIDString = B4CDE9461212BE97007C44E8;
 			remoteInfo = libcv210;
 		};
 		B40E304B1212E01E0023BCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B45C47A31211813B00554B43 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B4CDE7C91212B4EF007C44E8 /* libcxcore210 */;
+			remoteGlobalIDString = B4CDE7C91212B4EF007C44E8;
 			remoteInfo = libcxcore210;
 		};
 		B4CDE8821212B605007C44E8 /* PBXContainerItemProxy */ = {

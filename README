@@ -1,0 +1,16 @@
+This repository is a branch of EmguCV (http://www.emgu.com/) revision 793 (release 2.1), a cross platform .NET wrapper to Intel's OpenCV.
+The branch is enabling users of the Unity engine (http://unity3d.com/), to use the wrapper on both OSX and Windows.
+
+Building on Windows:
+
+To create the proper DLL's on Windows the easiest is to just run ReleaseBuild.bat.
+
+Building on OSX:
+
+On OSX the Xcode project "EmguXcode" has several bundles as its targets, which should be built to be used with Unity.
+The Managed part of EmguCV (the DLL's) can be built by opening the Emgu.CV.sln in Solution/VS2005_MonoDevelop in MonoDevelop.
+
+Using with Unity:
+
+To use EmguCV with Unity the managed DLL's (either from Windows or OSX, shouldn't matter which ones), the bundles and the other dll's from Windows (all dll's with 210 in the end), should be copied into a folder called Plugins in your Assets folder (read http://unity3d.com/support/documentation/Manual/Plugins.html if you want to know more).
+From here on you should be able to access the functionality of EmguCV from Unity.
